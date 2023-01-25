@@ -24,6 +24,5 @@ def main():
     visitor.visit(tree)
     os.remove("output.ly")
 
-
 if __name__ == '__main__':
     main()

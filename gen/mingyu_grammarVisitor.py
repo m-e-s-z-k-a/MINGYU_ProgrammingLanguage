@@ -9,7 +9,6 @@ else:
 
 
 # This class defines a complete generic visitor for a parse tree produced by mingyu_grammarParser.
-
 class mingyu_grammarVisitor(ParseTreeVisitor):
     printer = mingyuPrinter()
     melody_index = 0

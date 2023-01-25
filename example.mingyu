@@ -1,0 +1,20 @@
+{
+3/4
+
+[
+violin flat B3
+| eighth C5 flat eighth B4 eighth_dot A4 flat sixteenth B4 eighth C5 flat eighth E5
+||: eighth B4 eighth A4 eighth G4 flat eighth B4 eighth A4 sharp eighth F4
+| eighth E4 flat eighth B4 eighth D5 quarter_dot C4 :|
+| flat eighth B4 eighth A4 quarter G4 quarter F4 |
+]
+
+[
+bass sharp C3 sharp F3
+| eighth F3 eighth G3 sharp quarter A3 natural quarter A3
+||: half_dot B2
+| sharp sixteenth F3 sixteenth E3 sixteenth F3 sixteenth E3 sixteenth G3 sharp sixteenth F3 sixteenth G3
+sharp sixteenth F3 eighth A3 eighth G3
+| half_dot D3 :||
+]
+}
